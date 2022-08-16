@@ -4,8 +4,11 @@
 
 body {
 	margin: 0 auto;
-	background-color: black;
-	color: white;
+}
+
+header {
+	background-image: src('pattern.jpeg');
+	background-size: cover;
 }
 
 header h1 {
