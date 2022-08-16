@@ -7,7 +7,7 @@ body {
 }
 
 header {
-	background-image: src('pattern.jpeg');
+	background-image: url('pattern.jpeg');
 	background-size: cover;
 }
 
