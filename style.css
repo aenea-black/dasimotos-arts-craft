@@ -34,6 +34,10 @@ h2 {
 	background-color: lightcoral;
 }
 
+.paint h2 {
+	background-color: skyblue;
+}
+
 span {
 	color: blue;
 	font-family: Helvetica;
